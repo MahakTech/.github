@@ -1,53 +1,65 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/338131659?v=4" alt="MahakTech" width="112" />
+<a href="https://github.com/MahakTech">
+  <img src="https://avatars.githubusercontent.com/u/338131659?v=4" alt="MahakTech" width="120" />
+</a>
 
-# MAHAK<span style="color:#2563EB">TECH</span>
+# MAHAKTECH
 
-### Building digital products with ambition, precision, and purpose.
-
-**Mahak — CEO & Founder of MahakTech**
+### **Technology with purpose. Built for what comes next.**
 
 <p>
-  <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo"><strong>Explore the portfolio</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://mahak-tech-official-portfoilo.vercel.app"><strong>Visit the website</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/MahakTech"><strong>View GitHub</strong></a>
+  <strong>Mahak</strong> · CEO & Founder
+</p>
+
+<p>
+  <a href="https://mahak-tech-official-portfoilo.vercel.app">Website</a>
+  &nbsp; <strong>·</strong> &nbsp;
+  <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo">Portfolio</a>
+  &nbsp; <strong>·</strong> &nbsp;
+  <a href="https://github.com/MahakTech">GitHub</a>
 </p>
 
 </div>
 
----
+<br />
 
-## The direction
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>Building the next layer of digital</h2>
+      <p>MahakTech is a technology venture focused on digital products, software, websites, and innovative technology solutions.</p>
+      <p>We combine <strong>clear product thinking</strong>, <strong>refined digital experiences</strong>, and <strong>modern engineering</strong> to turn ambitious ideas into useful, memorable products.</p>
+    </td>
+    <td width="42%" valign="top">
+      <blockquote>
+        <p><strong>Build with clarity.<br />Ship with intent.<br />Raise the standard.</strong></p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-MahakTech is a technology venture focused on building digital products, software, websites, and innovative technology solutions.
+## A point of view
 
-The ambition is simple: combine thoughtful product thinking with strong engineering to create useful, distinctive experiences that can grow into meaningful businesses.
+> The best technology is not defined by how complex it is. It is defined by how naturally it solves a meaningful problem.
 
-> **Build with clarity. Ship with intent. Keep raising the standard.**
-
-## Founder philosophy
-
-I believe the best technology sits at the intersection of **usefulness, craft, and possibility**.
-
-That means starting with a real problem, designing an experience people want to return to, and engineering the foundations carefully enough for the idea to evolve. Every project is an opportunity to learn faster, make the work sharper, and turn an ambitious direction into something tangible.
+Every MahakTech build starts with a real opportunity: understand the problem, shape the experience, engineer the foundation, and keep improving until the result feels inevitable.
 
 ## Ventures & products
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>MahakTech</h3>
-      <p>A technology venture building digital products, software, websites, and innovative technology solutions.</p>
-      <p><strong>Status:</strong> Building in public</p>
+      <h3>01 · MahakTech</h3>
+      <p><strong>Technology venture</strong></p>
+      <p>Building digital products, software, websites, and innovative technology solutions with a focus on usefulness, quality, and long-term potential.</p>
+      <p><sub>BUILDING IN PUBLIC</sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>MahakTech Portfolio</h3>
-      <p>The official portfolio experience for MahakTech, created to present the brand, its capabilities, and its digital direction.</p>
-      <p><strong>Stack:</strong> Next.js · React · TypeScript · Tailwind CSS · Three.js</p>
-      <p><a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo">Repository</a> · <a href="https://mahak-tech-official-portfoilo.vercel.app">Live experience</a></p>
+      <h3>02 · Official Portfolio</h3>
+      <p><strong>Digital brand experience</strong></p>
+      <p>The public digital home of MahakTech — designed to communicate the venture's identity, capabilities, and direction.</p>
+      <p><a href="https://mahak-tech-official-portfoilo.vercel.app">Live experience</a> &nbsp;·&nbsp; <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo">Source</a></p>
     </td>
   </tr>
 </table>
@@ -56,62 +68,85 @@ That means starting with a real problem, designing an experience people want to 
 
 ### Official Portfolio Experience
 
-A polished portfolio platform designed as the public digital home of MahakTech.
+A motion-led portfolio platform designed to make the MahakTech vision tangible through a polished, responsive, and immersive web experience.
 
-- **Purpose:** communicate the venture's identity, work, and technology direction
-- **Experience:** motion-led interface, responsive layouts, and immersive visual presentation
-- **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Lenis, Lucide, and Three.js
-- **Links:** [source repository](https://github.com/MahakTech/Mahak-tech-official-portfoilo) · [live website](https://mahak-tech-official-portfoilo.vercel.app)
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>Purpose</strong><br /><sub>Brand presentation<br />Digital storytelling</sub></td>
+    <td width="33%" valign="top"><strong>Experience</strong><br /><sub>Responsive layouts<br />Motion-led interactions</sub></td>
+    <td width="33%" valign="top"><strong>Built with</strong><br /><sub>Next.js · React<br />TypeScript · Three.js</sub></td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://mahak-tech-official-portfoilo.vercel.app"><strong>Open live website →</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo">View repository</a>
+</p>
 
 ## Technology direction
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Frontend & experience</strong><br />
-      Next.js · React · TypeScript<br />
-      Tailwind CSS · Framer Motion<br />
-      Three.js · Lenis · Lucide
+      <h4>INTERFACE</h4>
+      Next.js · React<br />
+      TypeScript · Tailwind CSS<br />
+      Framer Motion · Lucide
     </td>
     <td width="33%" valign="top">
-      <strong>Product engineering</strong><br />
-      Responsive interfaces · Motion systems<br />
-      Digital product design<br />
-      Maintainable web foundations
+      <h4>IMMERSION</h4>
+      Three.js · Lenis<br />
+      Motion systems<br />
+      Expressive digital experiences
     </td>
     <td width="33%" valign="top">
-      <strong>Tools & delivery</strong><br />
+      <h4>DELIVERY</h4>
       GitHub · Vercel<br />
-      ESLint · PostCSS · Autoprefixer<br />
-      Modern TypeScript workflows
+      ESLint · PostCSS<br />
+      Modern web foundations
     </td>
   </tr>
 </table>
 
-> The stack is a means, not the story. The goal is to make ambitious ideas useful, fast, and beautifully real.
+<details>
+<summary><strong>How the stack is used</strong></summary>
+<br />
+
+The stack is selected around the product — not the other way around. The focus is on fast, maintainable interfaces, purposeful motion, responsive design, and foundations that can evolve with the idea.
+
+</details>
 
 ## Engineering & innovation
 
-MahakTech explores the space where **secure systems, useful software, and expressive digital experiences** meet. The work is grounded in practical product building today, while leaving room for deeper experimentation with immersive interfaces and emerging technology.
+MahakTech explores the space where **useful software**, **secure systems**, and **expressive digital experiences** meet. Current work is grounded in modern web product development, with room to explore immersive interfaces and emerging technology as the right opportunities appear.
 
 ## GitHub, without the noise
 
-This profile intentionally keeps analytics restrained rather than relying on third-party widgets that can become unavailable or inaccurate. For the most current activity, repositories, and contribution history, use the verified [MahakTech GitHub organization](https://github.com/MahakTech).
+Rather than filling the profile with fragile third-party widgets, explore the verified organization for the most current repositories and activity:
+
+<p align="center">
+  <a href="https://github.com/MahakTech"><strong>Explore MahakTech on GitHub →</strong></a>
+</p>
 
 ## Connect & collaborate
 
 Have a thoughtful product, software, website, or technology idea worth building?
 
 <p>
-  <a href="https://mahak-tech-official-portfoilo.vercel.app">Website</a>
+  <a href="https://mahak-tech-official-portfoilo.vercel.app"><strong>Website</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/MahakTech">GitHub</a>
+  <a href="https://github.com/MahakTech"><strong>GitHub</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo">Portfolio repository</a>
+  <a href="https://github.com/MahakTech/Mahak-tech-official-portfoilo"><strong>Portfolio repository</strong></a>
 </p>
+
+<br />
 
 <div align="center">
 
-### Technology with purpose. Ambition with a point of view.
+**Make it useful. Make it distinctive. Make it matter.**
+
+<sub>© MahakTech · Building with ambition and intent.</sub>
 
 </div>
