@@ -1,7 +1,11 @@
 <div align="center">
 
+<img src="./assets/mahaktech-luxury-banner.svg" alt="MahakTech — Build what comes next" width="100%" />
+
+<br />
+
 <a href="https://github.com/MahakTech">
-  <img src="https://avatars.githubusercontent.com/u/338131659?v=4" alt="MahakTech" width="120" />
+  <img src="https://avatars.githubusercontent.com/u/338131659?v=4" alt="MahakTech" width="108" />
 </a>
 
 # MAHAKTECH
@@ -32,9 +36,7 @@
       <p>We combine <strong>clear product thinking</strong>, <strong>refined digital experiences</strong>, and <strong>modern engineering</strong> to turn ambitious ideas into useful, memorable products.</p>
     </td>
     <td width="42%" valign="top">
-      <blockquote>
-        <p><strong>Build with clarity.<br />Ship with intent.<br />Raise the standard.</strong></p>
-      </blockquote>
+      <img src="./assets/mahaktech-architecture.svg" alt="MahakTech digital architecture" width="100%" />
     </td>
   </tr>
 </table>
